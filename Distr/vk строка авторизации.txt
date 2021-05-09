@@ -1,0 +1,1 @@
+https://login.vk.com/?act=openapi&oauth=1&aid=<ID вашего приложения>&location=127.0.0.1&new=1&response_type=code
